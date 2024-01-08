@@ -1,0 +1,12 @@
+ul
+{
+    list-style: none;
+}
+li 
+{
+    float:left;
+    margin-left: 10px;
+    cursor: pointer;
+    color: blue;
+    font-size: 18px;
+}
